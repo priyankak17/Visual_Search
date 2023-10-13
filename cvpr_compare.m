@@ -9,7 +9,4 @@ x = x.^2;
 x = sum(x);
 dst = sqrt(x);
 
-
-dst=rand();
-
 return;
